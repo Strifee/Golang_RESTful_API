@@ -1,6 +1,6 @@
 # GOLang RESTful API
 
-> RESTful API to create, read, delete and update Users. (frontend and database implementation will be added later)
+> RESTful API to create, read, delete and update Users. (database implementation will be added later)
 
 ##Bash Start
 
